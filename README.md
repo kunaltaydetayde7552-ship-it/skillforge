@@ -34,6 +34,7 @@ python cli/forge.py validate ./skills
 | `safe-refactor` | Refactor without breaking behavior |
 | `write-pr-description` | Generate a clear, reviewable PR description |
 | `api-error-triage` | Diagnose a failing API call systematically |
+| `linkedin-automation` | Drive LinkedIn actions (profiles, search, messaging, connections, posts) via Linked API |
 
 ## The Linter
 
